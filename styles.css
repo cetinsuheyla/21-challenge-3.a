@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.hero {
+    background-color: #FF8303;
+    color: #F0E3CA;
+}
+
+.container {
+    padding: 80px 0;
+}
+
+.hero__text {
+    width: 70%;
+    margin: auto 0;
+    padding: 0 50px;
+}
+
+a {
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: #F0E3CA;
+    color: #FF8303;
+    border-radius: 80px;
+    padding: .5em 2em;
+    font-weight: 900;
+}
+
+p {
+    margin-bottom: 2em;
+    line-height: 1.5;
+}
